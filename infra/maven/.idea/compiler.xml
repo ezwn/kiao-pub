@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="kiao-knowledge-assessment-lib" />
+        <module name="kiao-mlscript-lib" />
       </profile>
     </annotationProcessing>
   </component>

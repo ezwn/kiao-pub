@@ -1,0 +1,452 @@
+[
+    {
+        "title": [
+            {
+                "EN": {
+                    "lang": "EN",
+                    "percentCount": 0,
+                    "hasOptionalPrefix": false,
+                    "titleLevel": 0,
+                    "exclamationCount": 0,
+                    "orderedListNumber": null,
+                    "rest": "this title",
+                    "attributes": null,
+                    "unorderedListItem": false,
+                    "disabled": false,
+                    "sentenceEnd": false,
+                    "vocabulary": true,
+                    "paragraphEnd": false,
+                    "writtenExercise": false,
+                    "question": false,
+                    "writtenSection": false,
+                    "propositionEnd": false
+                },
+                "FR": {
+                    "lang": "FR",
+                    "percentCount": 0,
+                    "hasOptionalPrefix": false,
+                    "titleLevel": 0,
+                    "exclamationCount": 0,
+                    "orderedListNumber": null,
+                    "rest": "ce titre",
+                    "attributes": null,
+                    "unorderedListItem": false,
+                    "disabled": false,
+                    "sentenceEnd": false,
+                    "vocabulary": true,
+                    "paragraphEnd": false,
+                    "writtenExercise": false,
+                    "question": false,
+                    "writtenSection": false,
+                    "propositionEnd": false
+                }
+            },
+            {
+                "EN": {
+                    "lang": "EN",
+                    "percentCount": 0,
+                    "hasOptionalPrefix": false,
+                    "titleLevel": 1,
+                    "exclamationCount": 0,
+                    "orderedListNumber": null,
+                    "rest": "Main title",
+                    "attributes": null,
+                    "unorderedListItem": false,
+                    "disabled": false,
+                    "sentenceEnd": false,
+                    "vocabulary": false,
+                    "paragraphEnd": false,
+                    "writtenExercise": false,
+                    "question": false,
+                    "writtenSection": false,
+                    "propositionEnd": false
+                },
+                "FR": {
+                    "lang": "FR",
+                    "percentCount": 0,
+                    "hasOptionalPrefix": false,
+                    "titleLevel": 1,
+                    "exclamationCount": 0,
+                    "orderedListNumber": null,
+                    "rest": "Titre principal",
+                    "attributes": null,
+                    "unorderedListItem": false,
+                    "disabled": false,
+                    "sentenceEnd": false,
+                    "vocabulary": false,
+                    "paragraphEnd": false,
+                    "writtenExercise": false,
+                    "question": false,
+                    "writtenSection": false,
+                    "propositionEnd": false
+                }
+            }
+        ],
+        "level": 1,
+        "parts": [
+            [
+                [
+                    [
+                        {
+                            "EN": {
+                                "lang": "EN",
+                                "percentCount": 0,
+                                "hasOptionalPrefix": false,
+                                "titleLevel": 0,
+                                "exclamationCount": 0,
+                                "orderedListNumber": null,
+                                "rest": "example",
+                                "attributes": null,
+                                "unorderedListItem": false,
+                                "disabled": false,
+                                "sentenceEnd": false,
+                                "vocabulary": true,
+                                "paragraphEnd": false,
+                                "writtenExercise": false,
+                                "question": false,
+                                "writtenSection": false,
+                                "propositionEnd": false
+                            },
+                            "FR": {
+                                "lang": "FR",
+                                "percentCount": 0,
+                                "hasOptionalPrefix": false,
+                                "titleLevel": 0,
+                                "exclamationCount": 0,
+                                "orderedListNumber": null,
+                                "rest": "exemple",
+                                "attributes": null,
+                                "unorderedListItem": false,
+                                "disabled": false,
+                                "sentenceEnd": false,
+                                "vocabulary": true,
+                                "paragraphEnd": false,
+                                "writtenExercise": false,
+                                "question": false,
+                                "writtenSection": false,
+                                "propositionEnd": false
+                            }
+                        },
+                        {
+                            "EN": {
+                                "lang": "EN",
+                                "percentCount": 0,
+                                "hasOptionalPrefix": false,
+                                "titleLevel": 0,
+                                "exclamationCount": 0,
+                                "orderedListNumber": null,
+                                "rest": "Example of sentence,",
+                                "attributes": null,
+                                "unorderedListItem": false,
+                                "disabled": false,
+                                "sentenceEnd": false,
+                                "vocabulary": false,
+                                "paragraphEnd": false,
+                                "writtenExercise": false,
+                                "question": false,
+                                "writtenSection": false,
+                                "propositionEnd": true
+                            },
+                            "FR": {
+                                "lang": "FR",
+                                "percentCount": 0,
+                                "hasOptionalPrefix": false,
+                                "titleLevel": 0,
+                                "exclamationCount": 0,
+                                "orderedListNumber": null,
+                                "rest": "Exemple de phrase,",
+                                "attributes": null,
+                                "unorderedListItem": false,
+                                "disabled": false,
+                                "sentenceEnd": false,
+                                "vocabulary": false,
+                                "paragraphEnd": false,
+                                "writtenExercise": false,
+                                "question": false,
+                                "writtenSection": false,
+                                "propositionEnd": true
+                            }
+                        }
+                    ],
+                    [
+                        {
+                            "EN": {
+                                "lang": "EN",
+                                "percentCount": 0,
+                                "hasOptionalPrefix": false,
+                                "titleLevel": 0,
+                                "exclamationCount": 0,
+                                "orderedListNumber": null,
+                                "rest": "over two lines.",
+                                "attributes": null,
+                                "unorderedListItem": false,
+                                "disabled": false,
+                                "sentenceEnd": true,
+                                "vocabulary": false,
+                                "paragraphEnd": false,
+                                "writtenExercise": false,
+                                "question": false,
+                                "writtenSection": false,
+                                "propositionEnd": false
+                            },
+                            "FR": {
+                                "lang": "FR",
+                                "percentCount": 0,
+                                "hasOptionalPrefix": false,
+                                "titleLevel": 0,
+                                "exclamationCount": 0,
+                                "orderedListNumber": null,
+                                "rest": "sur deux lignes.",
+                                "attributes": null,
+                                "unorderedListItem": false,
+                                "disabled": false,
+                                "sentenceEnd": true,
+                                "vocabulary": false,
+                                "paragraphEnd": false,
+                                "writtenExercise": false,
+                                "question": false,
+                                "writtenSection": false,
+                                "propositionEnd": false
+                            }
+                        }
+                    ]
+                ]
+            ],
+            {
+                "title": [
+                    {
+                        "EN": {
+                            "lang": "EN",
+                            "percentCount": 0,
+                            "hasOptionalPrefix": false,
+                            "titleLevel": 2,
+                            "exclamationCount": 0,
+                            "orderedListNumber": null,
+                            "rest": "Inner title",
+                            "attributes": null,
+                            "unorderedListItem": false,
+                            "disabled": false,
+                            "sentenceEnd": false,
+                            "vocabulary": false,
+                            "paragraphEnd": false,
+                            "writtenExercise": false,
+                            "question": false,
+                            "writtenSection": false,
+                            "propositionEnd": false
+                        },
+                        "FR": {
+                            "lang": "FR",
+                            "percentCount": 0,
+                            "hasOptionalPrefix": false,
+                            "titleLevel": 2,
+                            "exclamationCount": 0,
+                            "orderedListNumber": null,
+                            "rest": "Title niveau 2",
+                            "attributes": null,
+                            "unorderedListItem": false,
+                            "disabled": false,
+                            "sentenceEnd": false,
+                            "vocabulary": false,
+                            "paragraphEnd": false,
+                            "writtenExercise": false,
+                            "question": false,
+                            "writtenSection": false,
+                            "propositionEnd": false
+                        }
+                    }
+                ],
+                "level": 2,
+                "parts": [
+                    [
+                        [
+                            [
+                                {
+                                    "EN": {
+                                        "lang": "EN",
+                                        "percentCount": 0,
+                                        "hasOptionalPrefix": false,
+                                        "titleLevel": 0,
+                                        "exclamationCount": 0,
+                                        "orderedListNumber": null,
+                                        "rest": "a text",
+                                        "attributes": null,
+                                        "unorderedListItem": false,
+                                        "disabled": false,
+                                        "sentenceEnd": false,
+                                        "vocabulary": false,
+                                        "paragraphEnd": false,
+                                        "writtenExercise": false,
+                                        "question": false,
+                                        "writtenSection": false,
+                                        "propositionEnd": false
+                                    },
+                                    "FR": {
+                                        "lang": "FR",
+                                        "percentCount": 0,
+                                        "hasOptionalPrefix": false,
+                                        "titleLevel": 0,
+                                        "exclamationCount": 0,
+                                        "orderedListNumber": null,
+                                        "rest": "un texte",
+                                        "attributes": null,
+                                        "unorderedListItem": false,
+                                        "disabled": false,
+                                        "sentenceEnd": false,
+                                        "vocabulary": false,
+                                        "paragraphEnd": false,
+                                        "writtenExercise": false,
+                                        "question": false,
+                                        "writtenSection": false,
+                                        "propositionEnd": false
+                                    }
+                                }
+                            ]
+                        ]
+                    ]
+                ],
+                "sentenceEnd": false,
+                "written": false,
+                "writtenExercise": false
+            }
+        ],
+        "sentenceEnd": false,
+        "written": false,
+        "writtenExercise": false
+    },
+    {
+        "title": [
+            {
+                "EN": {
+                    "lang": "EN",
+                    "percentCount": 0,
+                    "hasOptionalPrefix": false,
+                    "titleLevel": 1,
+                    "exclamationCount": 0,
+                    "orderedListNumber": null,
+                    "rest": "Second title",
+                    "attributes": null,
+                    "unorderedListItem": false,
+                    "disabled": false,
+                    "sentenceEnd": false,
+                    "vocabulary": false,
+                    "paragraphEnd": false,
+                    "writtenExercise": false,
+                    "question": false,
+                    "writtenSection": false,
+                    "propositionEnd": false
+                },
+                "FR": {
+                    "lang": "FR",
+                    "percentCount": 0,
+                    "hasOptionalPrefix": false,
+                    "titleLevel": 1,
+                    "exclamationCount": 0,
+                    "orderedListNumber": null,
+                    "rest": "Second titre",
+                    "attributes": null,
+                    "unorderedListItem": false,
+                    "disabled": false,
+                    "sentenceEnd": false,
+                    "vocabulary": false,
+                    "paragraphEnd": false,
+                    "writtenExercise": false,
+                    "question": false,
+                    "writtenSection": false,
+                    "propositionEnd": false
+                }
+            }
+        ],
+        "level": 1,
+        "parts": [
+            [
+                [
+                    [
+                        {
+                            "EN": {
+                                "lang": "EN",
+                                "percentCount": 0,
+                                "hasOptionalPrefix": false,
+                                "titleLevel": 0,
+                                "exclamationCount": 0,
+                                "orderedListNumber": null,
+                                "rest": "sentence",
+                                "attributes": null,
+                                "unorderedListItem": false,
+                                "disabled": false,
+                                "sentenceEnd": false,
+                                "vocabulary": true,
+                                "paragraphEnd": false,
+                                "writtenExercise": false,
+                                "question": false,
+                                "writtenSection": false,
+                                "propositionEnd": false
+                            },
+                            "FR": {
+                                "lang": "FR",
+                                "percentCount": 0,
+                                "hasOptionalPrefix": false,
+                                "titleLevel": 0,
+                                "exclamationCount": 0,
+                                "orderedListNumber": null,
+                                "rest": "phrase",
+                                "attributes": null,
+                                "unorderedListItem": false,
+                                "disabled": false,
+                                "sentenceEnd": false,
+                                "vocabulary": true,
+                                "paragraphEnd": false,
+                                "writtenExercise": false,
+                                "question": false,
+                                "writtenSection": false,
+                                "propositionEnd": false
+                            }
+                        },
+                        {
+                            "EN": {
+                                "lang": "EN",
+                                "percentCount": 0,
+                                "hasOptionalPrefix": false,
+                                "titleLevel": 0,
+                                "exclamationCount": 0,
+                                "orderedListNumber": null,
+                                "rest": "Another example of sentence on one line.",
+                                "attributes": null,
+                                "unorderedListItem": false,
+                                "disabled": false,
+                                "sentenceEnd": true,
+                                "vocabulary": false,
+                                "paragraphEnd": false,
+                                "writtenExercise": false,
+                                "question": false,
+                                "writtenSection": false,
+                                "propositionEnd": false
+                            },
+                            "FR": {
+                                "lang": "FR",
+                                "percentCount": 0,
+                                "hasOptionalPrefix": false,
+                                "titleLevel": 0,
+                                "exclamationCount": 0,
+                                "orderedListNumber": null,
+                                "rest": "Autre exemple de phrase, sur une ligne.",
+                                "attributes": null,
+                                "unorderedListItem": false,
+                                "disabled": false,
+                                "sentenceEnd": true,
+                                "vocabulary": false,
+                                "paragraphEnd": false,
+                                "writtenExercise": false,
+                                "question": false,
+                                "writtenSection": false,
+                                "propositionEnd": false
+                            }
+                        }
+                    ]
+                ]
+            ]
+        ],
+        "sentenceEnd": false,
+        "written": false,
+        "writtenExercise": false
+    }
+]
